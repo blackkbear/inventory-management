@@ -1,5 +1,5 @@
 # Context
-This web application was created to complete my graduation project so that I could achieve my bachelor's degree in Computer Science. This project only used free and open-source technologies that could help solve the problematic situation facing the Dental Clinic "DentoSalud" at the time by optimizing by an 80% their inventory management and tracking, since it automates how they control their inventory, making the process efficient by reducing human resources, time invested, and human errors. 
+This web application was created to complete my graduation project so that I could achieve my bachelor's degree in Computer Science. This project only used free and open-source technologies that could help solve the problematic situation that was facing the Dental Clinic "DentoSalud" at the time by optimizing by 80% their inventory management, since it automates how they control their inventory, making the process efficient by reducing human resources, time invested, and human errors. 
 
 ## What does it do?
 
@@ -7,7 +7,7 @@ This project contains modules such as login, create/read/update/delete users, cr
 
 The **login** module works with user roles and permissions, only those who have an existing user can log in, otherwise, an admin must create or recover your account.
 
-The **user** module also works with user roles and permissions, only admins can perform any RWX action on this module, regular users don't have these privileges.
+The **user** module also works with user roles and permissions, only admins can perform any RWX action on this module, regular users don't have these privileges, and can only read the information.
 
 The **inventory** module has a filter functionality that will fetch any product within the selected category that's being searched, once the filter is no longer needed, the clean button will remove the filter. This module allows the creation, update, and deletion of a product, and also has an entry/exit control of a product's quantity.
 
