@@ -21,6 +21,7 @@ The web application uses these technologies because, due to my college graduatio
 
 ### Others
   - SCRUM was the agile methodology used for planning and task management.
+  - SQL and back-end validations were implemented to prevent SQL injection attacks, and also validate user inputs.
 
 The phases that involved the development of this project were:
 1. Analysis: Gathered requirements from the customer to better understand the client's needs and expectations. With the requirements, I've started to design the use cases, general diagram of the use cases, classes diagram, sequence diagram, entity and relational diagram, and data dictionary. This allowed me to understand the functionalities, attributes, relations, interactions, architecture, and structure that the program must have.
@@ -44,5 +45,10 @@ The phases that involved the development of this project were:
 ![image](https://github.com/user-attachments/assets/fad7d1a1-ecbd-4963-a4fc-53fcfb16704c)
 
 ![image](https://github.com/user-attachments/assets/caa907be-0e2f-4143-afda-526aba7aafdf)
+
+## Demo
+
+https://github.com/user-attachments/assets/a70f9d66-e85e-4ab7-9c84-9ee9dddb7af5
+
 
 
