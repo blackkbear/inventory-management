@@ -29,7 +29,12 @@ The phases that involved the development of this project were:
 3. Development: Developed the database, back-end modules, and front-end, and created test scenarios to test the workflow and user interaction of each module. 
 4. Implementation: Created the user's manual and demo, and signed off the deployment of the web application in the client's machine.
 
+## Demo
+
+https://github.com/user-attachments/assets/a70f9d66-e85e-4ab7-9c84-9ee9dddb7af5
+
 ## Simple system navigation
+
 ![image](https://github.com/user-attachments/assets/16919593-b522-469c-bc82-737706362523)
 
 ![image](https://github.com/user-attachments/assets/9d6c16f6-8d74-41e4-919c-81366eb27943)
@@ -45,10 +50,5 @@ The phases that involved the development of this project were:
 ![image](https://github.com/user-attachments/assets/fad7d1a1-ecbd-4963-a4fc-53fcfb16704c)
 
 ![image](https://github.com/user-attachments/assets/caa907be-0e2f-4143-afda-526aba7aafdf)
-
-## Demo
-
-https://github.com/user-attachments/assets/a70f9d66-e85e-4ab7-9c84-9ee9dddb7af5
-
 
 
