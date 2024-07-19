@@ -1,5 +1,5 @@
 # Context
-This web application was created to complete my graduation project so that I could achieve my bachelor's degree in Computer Science. This project only used free and open-source technologies that could help solve the problematic situation that was facing the Dental Clinic "DentoSalud" at the time by optimizing by 80% their inventory management, since it automates how they control their inventory, making the process efficient by reducing human resources, time invested, and human errors. 
+This web application was created to complete my graduation project so that I could achieve my bachelor's degree in Computer Science. This project only used free and open-source technologies that could help solve the problematic situation that was facing the Dental Clinic "DentoSalud" at the time by optimizing by 80% their inventory management, since it automates how they control their inventory, making the process efficient by reducing human resources, time invested, and the margin of errors. 
 
 ## What does it do?
 
