@@ -3,20 +3,22 @@ This web application was created to complete my graduation project so that I cou
 
 ## What does it do?
 
-This project contains modules such as login, create/read/update/delete users, create/read/update/delete inventory or products, create/read/update/delete categories, and create/read/delete orders. There's also a module called "Alerts" which notifies when a specific product based on certain validations needs to be restocked soon or is completely out of stock.\ 
+This project contains modules such as login, create/read/update/delete users, create/read/update/delete inventory or products, create/read/update/delete categories, and create/read/delete orders. There's also a module called "Alerts" which notifies when a specific product based on certain validations needs to be restocked soon or is completely out of stock.
 
-The **login** module works with user roles and permissions, only those who have an existing user can log in, otherwise, an admin must create or recover your account.\
+The **login** module works with user roles and permissions, only those who have an existing user can log in, otherwise, an admin must create or recover your account.
 
-The **user** module also works with user roles and permissions, only admins can perform any RWX action on this module, regular users don't have these privileges.\
+The **user** module also works with user roles and permissions, only admins can perform any RWX action on this module, regular users don't have these privileges.
 
-The **inventory** module has a filter functionality that will fetch any product within the selected category that's being searched, once the filter is no longer needed, the clean button will remove the filter. This module allows the creation, update, and deletion of a product, and also has an entry/exit control of a product's quantity.\
+The **inventory** module has a filter functionality that will fetch any product within the selected category that's being searched, once the filter is no longer needed, the clean button will remove the filter. This module allows the creation, update, and deletion of a product, and also has an entry/exit control of a product's quantity.
 
-The category module allows for the creation, reading, updating, and deletion of categories. If a category has multiple existing products assigned to it and you want to delete the category, a validation will prompt you to be cautious with this action. Once approved, all products associated with the category will be deleted in a cascading manner.\
+The **category** module allows for the creation, reading, updating, and deletion of categories. If a category has multiple existing products assigned to it and you want to delete the category, a validation will prompt you to be cautious with this action. Once approved, all products associated with the category will be deleted in a cascading manner.
 
-The **shopping list** has different sections:\
-  - **Create list to order**: This section allows users to create an array/list of different products that need to be ordered. First, there will be a filter that will search for products within the selected category, then a quantity for the desired product must be entered, and then it should be added to the list. Once all wanted products are listed, a description for this list must be entered, and finally, the list can be created, and will pass to be an "order in process".\
-  - **Orders in process**: In this section general information will be shown in a table, such as order/list number, it will capture the session of the user who created the list, and it will also capture the system's time of when this list was created, the list's description. Finally, there will be different actions to take with this list, you can change the status of this list to complete it and once it's complete it'll pass to the order's history section, you can also generate a PDF capturing the general, and detailed information of the shopping's list, or, this list can be permanently deleted from the system. How this section typically works is that once you've printed or saved the PDF, this can be passed on to a third-party provider, and once the items arrive at the business, you'd check this list and complete it. \
-  - **Order's history**: In this section, all completed lists will remain historical in the application's database, a PDF can be generated to look back at what was ordered, or this list can be permanently deleted, as well.\
+The **shopping list** has different sections:
+  - **Create list to order**: This section allows users to create an array/list of different products that need to be ordered. First, there will be a filter that will search for products within the selected category, then a quantity for the desired product must be entered, and then it should be added to the list. Once all wanted products are listed, a description for this list must be entered, and finally, the list can be created, and will pass to be an "order in process".
+    
+  - **Orders in process**: In this section general information will be shown in a table, such as order/list number, it will capture the session of the user who created the list, and it will also capture the system's time of when this list was created, the list's description. Finally, there will be different actions to take with this list, you can change the status of this list to complete it and once it's complete it'll pass to the order's history section, you can also generate a PDF capturing the general, and detailed information of the shopping's list, or, this list can be permanently deleted from the system. How this section typically works is that once you've printed or saved the PDF, this can be passed on to a third-party provider, and once the items arrive at the business, you'd check this list and complete it.
+    
+  - **Order's history**: In this section, all completed lists will remain historical in the application's database, a PDF can be generated to look back at what was ordered, or this list can be permanently deleted, as well.
 
 ## Technologies
 
