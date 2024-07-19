@@ -1,12 +1,34 @@
-**Manual**
-
+# Manual 
 This web application was created to complete my graduation project so that I could achieve my bachelor's degree in Computer Science. This project only used free and open-source technologies that could help solve the problematic situation facing the Dental Clinic "DentoSalud" at the time by optimizing by an 80% their inventory management and tracking, since it automates how they control their inventory, making the process efficient by reducing human resources, time invested, and human errors. 
 
-**Technologies**
+## Technologies
 
-The web application has used these technologies 
+The web application uses these technologies because, due to my college graduation project requirements, it had to be a completely free system for the company without paid technologies or services. However, it is scalable. It's already created with a user web interface that provides simple navigation and management, and it is fully ready to be uploaded to a cloud server. The technologies and processes used were the following:
 
-**Simple system navigation**
+### Back-End
+  - Project created with Visual Studio Code using MVC for modular development for easy maintenance.
+  - Logic, controllers, data consultation/extraction, and functionalities were done with PHP.
+  - XAMPP hosted the project locally which allowed development, making it ready to be deployed to a live cloud server.
+
+### Front-End 
+  - HTML/CSS were used to provide styling to the interface.
+  - JavaScript was used to provide dynamic interactions to buttons.
+  - BootStrap provided predesigned components and styling that enhanced the interface.
+
+### Database
+  - MySQL was used to manage the application's data.
+  - phpMyAdmin worked as my MySQL database manager.
+
+### Others
+  - SCRUM was the agile methodology used for planning and task management.
+
+The phases that involved the development of this project were:
+1. Analysis: Gathered requirements from the customer to better understand the client's needs and expectations. With the requirements, I've started to design the use cases, general diagram of the use cases, classes diagram, sequence diagram, entity and relational diagram, and data dictionary. This allowed me to understand the functionalities, attributes, relations, interactions, architecture, and structure that the program must have.
+2. Design: Designed mockups or prototypes of each screen that the web application would have, to have the customer's approval, before starting the development phase.
+3. Development: Developed the database, back-end modules, and front-end, and created test scenarios to test the workflow and user interaction of each module. 
+4. Implementation: Created the user's manual and demo, and signed off the deployment of the web application in the client's machine.
+
+## Simple system navigation
 ![image](https://github.com/user-attachments/assets/16919593-b522-469c-bc82-737706362523)
 
 ![image](https://github.com/user-attachments/assets/9d6c16f6-8d74-41e4-919c-81366eb27943)
@@ -23,4 +45,4 @@ The web application has used these technologies
 
 ![image](https://github.com/user-attachments/assets/caa907be-0e2f-4143-afda-526aba7aafdf)
 
-![image](https://github.com/user-attachments/assets/a7f4d210-b78d-4c49-bd08-dd28a1e98e76)
+
