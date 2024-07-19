@@ -52,7 +52,7 @@ The phases that involved the development of this project were:
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/6a3707dc-ccbc-4e55-b12f-13f1ad12a9d7
 
 ## Simple system navigation
 
