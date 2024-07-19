@@ -20,6 +20,8 @@ The **shopping list** has different sections:
     
   - **Order's history**: In this section, all completed lists will remain historical in the application's database, a PDF can be generated to look back at what was ordered, or this list can be permanently deleted, as well.
 
+Each module includes various input validations to prevent system errors, injections, or incorrect manipulations. These validations ensure that any expected errors are displayed on the page.
+
 ## Technologies
 
 The web application uses these technologies because, due to my college graduation project requirements, it had to be a completely free system for the company without paid technologies or services. However, it is scalable. It's already created with a user web interface that provides simple navigation and management, and it is fully ready to be uploaded to a cloud server. The technologies and processes used were the following:
